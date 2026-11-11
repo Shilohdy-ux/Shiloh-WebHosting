@@ -1,0 +1,3 @@
+Flask
+upstash-redis
+gunicorn
